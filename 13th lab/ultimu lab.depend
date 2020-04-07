@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1515417520 source:c:\users\student\desktop\test arbori\ultimu lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"multime.h"
+
+1515415202 c:\users\student\desktop\test arbori\ultimu lab\multime.h
+
+1515418247 source:c:\users\student\desktop\test arbori\ultimu lab\multime1.c
+	<stdio.h>
+	<stdlib.h>
+	"multime.h"
+

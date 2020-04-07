@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513603067 source:d:\grupa30112\pop denis\lab12\lab12\main.c
+	<stdio.h>
+	"multime.h"
+
+1513599205 d:\grupa30112\pop denis\lab12\lab12\hedar.h
+
+1513599950 source:d:\grupa30112\pop denis\lab12\lab12\sors.c
+	<stdio.h>
+	<math.h>
+	"hedar.h"
+
+1513601620 d:\grupa30112\pop denis\lab12\lab12\multime.h
+
